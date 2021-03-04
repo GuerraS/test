@@ -1,0 +1,10 @@
+#container-login{
+    display: flex !important;
+}
+#container-login form{
+    margin: auto !important   ;
+}
+.error{
+    color:red !important;
+    font-size: 11px !important;
+}
